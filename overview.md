@@ -34,7 +34,7 @@ All meaningful change is system-driven.
 ## Want More Detail?
 - 📦 Economy → **[Economy](/systems/economy.md)**
 - ⚔️ War → **[War](/systems/war.md)**
-- 🌍 Realms & Gates → **[Realm & Gates](/systems/realms-and-gates.md)**
+- 🌍 Realms & Gates → **[Realm & Gates](/systems/realms-&-gates.md)**
 - 🏺 Artifacts → **[Artifacts](/systems/artifacts.md)**
 - 📜 Full Rules → **[Canon](/canon/canon-v1-0.md)**
 
