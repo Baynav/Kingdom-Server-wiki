@@ -14,7 +14,7 @@ for the Kingdom Server project.
 - Configuration files
 
 ## How to Read This
-- 🧭 New here? Start with **[Overview](./overview.md)**
-- 📦 Want system explanations? See **/systems/**
-- 📜 Want exact rules? See **/canon/**
-- 🛠️ Curious about development? See **/devlog/**
+- 🧭 New here? Start with **[Overview](./overview)**
+- 📦 Want system explanations? See **[Systems](./systems/)
+- 📜 Want exact rules? See [Canon](./canon/Kingdom_Server_Canon_V1.0/)
+- 🛠️ Curious about development? See [DevLog](./devlog/)
