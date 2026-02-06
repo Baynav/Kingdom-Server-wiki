@@ -32,7 +32,7 @@ The world is preserved:
 All meaningful change is system-driven.
 
 ## Want More Detail?
-- 📦 Economy → `/systems/economy.md`
+- 📦 Economy → **[Economy}(./systems/economy.md)**
 - ⚔️ War → `/systems/war.md`
 - 🌍 Realms & Gates → `/systems/realms-and-gates.md`
 - 🏺 Artifacts → `/systems/artifacts.md`
