@@ -1,21 +1,22 @@
-# Kingdom Craft – Public Wiki & Dev Logs
+# Kingdom Craft – Public Wiki
 
-This repository contains the **public design canon, development logs, and planning documents**
+This repository contains the **public design canon, system summaries, and development logs**
 for the Kingdom Craft project.
 
 ## What This Is
-- Game design documentation
-- Canonical rules
-- Developer reasoning
-- Progress updates
+- Canonical rules (locked versions)
+- Plain-language explanations of systems
+- Developer dev logs and reasoning
 
 ## What This Is NOT
 - Server code
 - Plugins
 - Configuration files
 
-The actual server implementation is maintained privately.
+The server implementation is maintained privately.
 
-## Start Here
-- 📜 [Canon v1.0](./canon/canon-v1-0.md)
-- 🛠️ [Dev Logs](./devlog/)
+## How to Read This
+- 🧭 New here? Start with **[Overview](./overview.md)**
+- 📦 Want system explanations? See **/systems/**
+- 📜 Want exact rules? See **/canon/**
+- 🛠️ Curious about development? See **/devlog/**
