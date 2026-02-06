@@ -4,16 +4,14 @@ This repository contains the **public design canon, system summaries, and develo
 for the Kingdom Craft project.
 
 ## What This Is
-- Canonical rules (locked versions)
+- Canonical Rules
 - Plain-language explanations of systems
-- Developer dev logs and reasoning
+- Developer Dev Logs
 
 ## What This Is NOT
 - Server code
 - Plugins
 - Configuration files
-
-The server implementation is maintained privately.
 
 ## How to Read This
 - 🧭 New here? Start with **[Overview](./overview.md)**
