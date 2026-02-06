@@ -32,9 +32,9 @@ The world is preserved:
 All meaningful change is system-driven.
 
 ## Want More Detail?
-- 📦 Economy → **[Economy}(./systems/economy.md)**
-- ⚔️ War → `/systems/war.md`
-- 🌍 Realms & Gates → `/systems/realms-and-gates.md`
-- 🏺 Artifacts → `/systems/artifacts.md`
-- 📜 Full Rules → `/canon/canon-v1-0.md`
+- 📦 Economy → **[Economy](/systems/economy.md)**
+- ⚔️ War → **[War](/systems/war.md)**
+- 🌍 Realms & Gates → **[Realm & Gates](/systems/realms-and-gates.md)**
+- 🏺 Artifacts → **[Artifacts](/systems/artifacts.md)**
+- 📜 Full Rules → **[Canon](/canon/canon-v1-0.md)**
 
