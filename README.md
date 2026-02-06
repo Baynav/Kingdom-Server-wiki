@@ -1,7 +1,7 @@
-# Kingdom Craft – Public Wiki
+# Kingdom Server – Public Wiki
 
 This repository contains the **public design canon, system summaries, and development logs**
-for the Kingdom Craft project.
+for the Kingdom Server project.
 
 ## What This Is
 - Canonical Rules
