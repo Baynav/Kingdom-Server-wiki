@@ -1,104 +1,134 @@
-👑 Kingdoms — Development Update
-The Engine Is Alive
+# 👑 Kingdoms — Development Update  
+## **The Engine Is Alive**
 
-We’ve crossed a huge milestone in development.
+We’ve crossed a massive milestone.
 
-Kingdoms is no longer just an idea or design document — the core simulation is now running in-game.
+**Kingdoms is no longer just a concept or design document — the core simulation is now running live in-game.**
 
-Here’s what that means 👇
+Below is what that means for the future of the world 👇
 
-🏰 You Can Create a Kingdom
+---
 
-Players are now able to:
+## 🏰 Kingdom Creation Is Real
 
-Establish their own kingdom
+Players can now:
 
-Receive a persistent capital
+- Establish their own kingdom  
+- Receive a **persistent** capital  
+- Leave the server and return to find everything exactly where it should be  
 
-Log off and come back to find everything exactly where it should be
+> No resets.  
+> No lost progress.  
+> Your kingdom exists in a living, continuous world.
 
-No resets. No progress loss.
+---
 
-Your kingdom is part of a living world.
+## 👷 Your People Work For You
 
-👷 Your People Work For You
+Your kingdom is powered by NPC workers who:
 
-Kingdoms are powered by NPC workers who:
+- Gather resources automatically over time  
+- Consume food to survive  
+- Enter hardship if supplies run low  
 
-Gather resources over time
+This transforms gameplay from grinding → into **management, planning, and leadership**.
 
-Consume food to survive
+---
 
-Struggle if supplies run low
+## 🌲 A Living Economy Exists
 
-This introduces real strategy and planning instead of simple grinding.
+Production is now active for:
 
-🌲 A Real Economy Exists
+- **Wood**  
+- **Stone**  
+- **Food**
 
-We now have active production for:
+Resources flow through your population and infrastructure — not just player labor.
 
-Wood
+The simulation has begun.
 
-Stone
+---
 
-Food
+## 🧱 Buildings Now Matter
 
-Resources grow automatically through your workforce and infrastructure.
+Investment and development are meaningful.
 
-🧱 Buildings Matter
+Structures can:
 
-You can invest in development through structures that:
+- Improve efficiency  
+- Strengthen expeditions  
+- Influence how your kingdom grows  
 
-Improve efficiency
+Even in early development, strategic choices already create different outcomes.
 
-Enhance expeditions
+---
 
-Shape how your kingdom grows
+## 🧭 Expeditions Are Operational
 
-Even at this early stage, choices already influence outcomes.
+One of our largest systems is now online.
 
-🧭 Expeditions Are Live
+Players can launch expeditions that:
 
-One of our biggest systems is now functioning.
+- 🕒 take real time  
+- 🍞 cost supplies  
+- 🎲 involve risk  
+- 💰 return with rewards  
+- 💥 sometimes fail  
+- 🔁 **continue running even through server restarts**
 
-You can send out expeditions that:
+When they return, the kingdom is updated automatically and the player is notified.
 
-🕒 take real time
-🍞 cost supplies
-🎲 carry risk
-💰 return with rewards
-💥 can fail
-🔁 continue working through server restarts
+This is the first true step toward grand-strategy gameplay.
 
-When they return, you are notified immediately.
+---
 
-🌍 Persistent World Confirmed
+## 🌍 Persistence Confirmed
 
-We tested:
+We stress-tested the system across:
 
-✔ restarts
-✔ shutdowns
-✔ mid-expedition saves
-✔ player offline completions
+- ✔ server restarts  
+- ✔ shutdowns  
+- ✔ mid-expedition saves  
+- ✔ players being offline during completion  
 
 Everything resumes correctly.
 
+**The world remembers what happened.**
 
-🧠 Built For The Future
+---
 
+## 🧠 Built With Expansion In Mind
 
-🚀 Where We’re Headed
+The most important success:
 
-Now that the foundation is stable, development can accelerate toward:
+The backend is now strong enough to support major future features **without needing rewrites**.
 
-Physical Buildings
+This opens the door for things like:
 
-Not just commands but interaction with your kingdom
+- physical locations  
+- steward NPC interaction  
+- deeper progression  
+- large-scale conflict  
+- diplomacy  
+- world events  
 
-UI Updates
+The engine can carry the weight.
 
-and much more to come, can't spoil it all in 1 update.
+---
 
-The world will soon begin to feel alive.
+## 🚀 Where We’re Headed Next
 
-More updates soon 👑
+With the foundation stable, development can now accelerate toward:
+
+- **Physical buildings instead of command-driven systems**  
+- More immersive ways to interact with your kingdom  
+- UI improvements  
+- New strategic layers  
+
+…and more that we’re not ready to reveal yet 👀
+
+The world will soon begin to feel truly alive.
+
+---
+
+**More updates soon 👑**
