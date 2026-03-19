@@ -16,5 +16,5 @@ for the Kingdom Server project.
 ## How to Read This
 - 🧭 New here? Start with **[Overview](./overview.md)**
 - 📦 Want system explanations? See **[Systems](./systems/)**
-- 📜 Want exact rules? See **[Canon](./canon/canon-V1.0.md)**
+- 📜 Want exact rules? See **[Canon](canon/canon-v1.0.md)**
 - 🛠️ Curious about development? See **[DevLog](./devlog/devlog.md)**
